@@ -13,5 +13,12 @@ export default function Home() {
       <WhyChooseUs/>
       <MovingCard/>
   </main>
+
+
+
+
+
+
+
   );
 }
